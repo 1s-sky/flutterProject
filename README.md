@@ -1,16 +1,23 @@
-# midterm
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![슬라이드2](https://github.com/1s-sky/flutterProject/assets/63232417/eae46976-b936-4598-81f6-d5716908f000)
+![슬라이드3](https://github.com/1s-sky/flutterProject/assets/63232417/b449ae21-11b2-4662-8e8e-856a1e21be82)
+![슬라이드4](https://github.com/1s-sky/flutterProject/assets/63232417/aca88f31-8a7f-4ddd-a326-7654d7c98b33)
+![슬라이드5](https://github.com/1s-sky/flutterProject/assets/63232417/9934fb81-6397-45b1-b13f-c97c4649a571)
+![슬라이드6](https://github.com/1s-sky/flutterProject/assets/63232417/3d3179b8-2b09-43b6-9039-c88623450124)
+![슬라이드7](https://github.com/1s-sky/flutterProject/assets/63232417/b39b6365-4f3f-4e92-b174-ac08ab735bda)
+![슬라이드8](https://github.com/1s-sky/flutterProject/assets/63232417/e34f26e1-9b19-439c-91f8-7b454611b0c0)
+![슬라이드9](https://github.com/1s-sky/flutterProject/assets/63232417/b03e78cc-5c4b-44a2-b29a-320407985926)
+![슬라이드10](https://github.com/1s-sky/flutterProject/assets/63232417/6dd68af9-752d-4459-9383-d1a942c3a274)
+![슬라이드11](https://github.com/1s-sky/flutterProject/assets/63232417/fb97ba96-04e4-4025-aa63-f76f2f31cd0d)
+![슬라이드12](https://github.com/1s-sky/flutterProject/assets/63232417/edccc961-ca48-4b90-8236-fb97a5fd7380)
+![슬라이드13](https://github.com/1s-sky/flutterProject/assets/63232417/0c296e02-72df-4576-814c-42dc00d983f7)
+![슬라이드14](https://github.com/1s-sky/flutterProject/assets/63232417/04a5cb74-0b0f-4833-9c1b-53dfbc46ecc5)
+![슬라이드15](https://github.com/1s-sky/flutterProject/assets/63232417/98c360db-1242-48bb-a33f-9a4ddc90f2ed)
+![슬라이드16](https://github.com/1s-sky/flutterProject/assets/63232417/99feb751-e64d-427c-bbd6-624d159451f6)
+![슬라이드17](https://github.com/1s-sky/flutterProject/assets/63232417/538e9419-0d2a-4044-9fd7-30a801d26e8e)
+![슬라이드18](https://github.com/1s-sky/flutterProject/assets/63232417/ee7511a2-d3ba-4391-8c98-f15f4f9fda58)
+![슬라이드19](https://github.com/1s-sky/flutterProject/assets/63232417/29ef4dbb-332f-4683-973d-eb9a860bc2fc)
+![슬라이드20](https://github.com/1s-sky/flutterProject/assets/63232417/3e3efad1-9956-42e5-91d0-45e3458fa720)
+![슬라이드21](https://github.com/1s-sky/flutterProject/assets/63232417/38e5db1a-a6d6-4ee9-b0e9-0c4cb49f0ca1)
+![슬라이드22](https://github.com/1s-sky/flutterProject/assets/63232417/71649a1a-439f-4247-891d-40afe6b6c159)
+![슬라이드23](https://github.com/1s-sky/flutterProject/assets/63232417/8110c4dc-5e48-4d32-95a3-d95be65b9773)
+![슬라이드24](https://github.com/1s-sky/flutterProject/assets/63232417/c1ea14ad-c892-474e-a0da-f011af8b014e)
